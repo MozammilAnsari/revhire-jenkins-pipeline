@@ -30,3 +30,4 @@
 # Ignore any other sensitive files
 **/private.key
 **/secrets.tfvars
+**/.terraform.lock.hcl
